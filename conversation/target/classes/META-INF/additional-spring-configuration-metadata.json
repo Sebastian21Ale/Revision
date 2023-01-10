@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.jpa.hibernate.naming_strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.naming_strategy'"
+  },
+  {
+    "name": "spring.entityManagerFactory.persistenceUnitName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.entityManagerFactory.persistenceUnitName'"
+  },
+  {
+    "name": "spring.entityManagerFactory.persistenceUnitName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.entityManagerFactory.persistenceUnitName'"
+  }
+]}
